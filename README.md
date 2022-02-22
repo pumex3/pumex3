@@ -1,4 +1,6 @@
-### Olá! Eu sou o Pedro Paulo ✌️
+### Pedro Paulo, 27 anos - Ribeirão Preto - São Paulo ✌️
+
+Engenheiro de Software atuando no mercado a mais de 8 anos, desenvolvedor Backend.
 
 ### Tecnologias
 <br>
