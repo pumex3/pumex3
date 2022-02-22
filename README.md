@@ -1,7 +1,7 @@
 ### Pedro Paulo Aleixo , 27 years - Ribeirão Preto - São Paulo ✌️
 Software Engineer -  Backend
-
-### Tecnologias
+<br>
+### technologies
 <br>
 
 <div style ="display: flex">
