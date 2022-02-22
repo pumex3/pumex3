@@ -1,8 +1,8 @@
 ### Pedro Paulo Aleixo , 27 years - Ribeirão Preto - São Paulo ✌️
 Software Engineer -  Backend
 <br>
-### technologies
-<br>
+### Technologies
+
 
 <div style ="display: flex">
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
